@@ -1,0 +1,4 @@
+port=8080
+db.url=jdbc:mysql://localhost:3306/petgame?connectTimeout=5000&socketTimeout=10000
+db.user=root
+db.password=
